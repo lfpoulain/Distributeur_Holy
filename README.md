@@ -27,7 +27,7 @@ Vidéo explicative disponible sur notre chaîne YouTube.
 - [Valve électromagnétique](https://amzn.to/4fFdH1R)
 - [Servo moteur](https://amzn.to/4g23PPt)
 
-- Fichiers 3D dans la section fichiers.
+- [Fichier STLs](https://lfp.yt/stlholy)
 - [Bouteille Holy](https://lfp.yt/holy)
 
 ---
