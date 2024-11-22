@@ -52,7 +52,7 @@ Pour installer ces bibliothèques, utilisez le gestionnaire de bibliothèques d'
 
 ## Crédits et remerciements
 
-- Partenaire : [HOLI](https://lfp.yt/holy)
+- Partenaire : [HOLY](https://lfp.yt/holy)
 - Conçu et documenté par **Les Frères Poulain**.
 - Merci à notre communauté pour le soutien continu.
 
