@@ -8,6 +8,7 @@ Bienvenue dans le projet de distributeur automatique de boissons, conçu par **L
 Ce distributeur mélange automatiquement des poudres (ex. : boissons en poudre HOLY) avec de l'eau, grâce à un système mécanique et électronique. Le projet est compact et utilise un écran tactile pour sélectionner les goûts, les quantités, et activer le mélange.
 
 Vidéo explicative disponible sur notre chaîne YouTube.
+[![On créé nos BOISSONS avec notre machine AUTOMATIQUE ULTIME !!](https://cdn.thingiverse.com/assets/e5/2b/3a/80/f5/large_display_Capture_décran_2024-11-24_à_16.39.34.png)](https://youtu.be/R-FB-_h8R_A "On créé nos BOISSONS avec notre machine AUTOMATIQUE ULTIME !!")
 
 ---
 
@@ -53,7 +54,7 @@ Pour installer ces bibliothèques, utilisez le gestionnaire de bibliothèques d'
 ## Crédits et remerciements
 
 - Partenaire : [HOLY](https://lfp.yt/holy)
-- Conçu et documenté par **Les Frères Poulain**.
+- Conçu et documenté par **Les Frères Poulain**. 
 - Merci à notre communauté pour le soutien continu.
 
 ---
