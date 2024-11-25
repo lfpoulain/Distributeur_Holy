@@ -25,7 +25,7 @@ Vidéo explicative disponible sur notre chaîne YouTube.
 
 - [ESP32](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-1.28) 
 - [Controleur L298N](https://amzn.to/4fFdH1R)
-- [Valve électromagnétique](https://amzn.to/4fFdH1R)
+- [Valve électromagnétique](https://amzlink.to/az0yZk7YgXJhi)
 - [Servo moteur](https://amzn.to/4g23PPt)
 
 - [Fichier STLs](https://lfp.yt/stlholy)
